@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erapoly
-- 👀 I’m interested in ... Digital Illustration, Robotics
+- 👀 I’m interested in ... Digital Illustration, and Robotics
 - 🌱 I’m currently learning ... Ui/Ux, Blender, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
