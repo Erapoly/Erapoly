@@ -1,7 +1,7 @@
 # Hi, I'm Eirah! (Era) 👋
 
-### 👩‍💻 Aspiring Software Engineer | Tech Explorer
-I’m a C-focused developer currently rediscovering my passion for programming. I enjoy building logic-heavy projects and exploring how software can solve everyday problems.
+### 👩‍💻 Aspiring Software Engineer | Tech and Data Explorer
+Exploring the world of software through **C**, **Python**, and **SQL**, currently rediscovering my passion for programming. I enjoy the challenge of building logic-heavy applications and uncovering insights through data.
 
 ---
 
@@ -13,7 +13,7 @@ I’m a C-focused developer currently rediscovering my passion for programming. 
 
 ### 📈 What I'm Up To
 - 🔭 Working on: **Student Record System** (C)
-- 🌱 Learning: Modern Software Engineering principles
+- 🌱 Learning: Modern Software Engineering principles and enhancing my Data Analytics workflow and exploring new frameworks.
 - ⚡ Fun fact: I enjoy reading and art
 
 ---
